@@ -8,7 +8,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 
-# ---------------------- THEME CONFIG ----------------------
+# ---------------------- THEME CONFIG ---------------------
 OCEAN_BREEZE = {
     "primaryColor": "#00B4D8",
     "backgroundColor": "#F1FAFB",
